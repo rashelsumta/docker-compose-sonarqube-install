@@ -1,0 +1,3 @@
+git remote add origin https://github.com/rashelsumta/docker-compose-sonarqube-install.git
+
+git push -u origin master
